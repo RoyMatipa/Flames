@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SoLush - Waiting.ogg-5cb9ec54e00cc5daed7df5b76cddac92.oggstr"
+
+[deps]
+
+source_file="res://audio/SoLush - Waiting.ogg"
+dest_files=[ "res://.import/SoLush - Waiting.ogg-5cb9ec54e00cc5daed7df5b76cddac92.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

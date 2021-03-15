@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Y - MY PRESENCE.ogg-5baba9bd51c42bb0fbf9dcec6c63c6ab.oggstr"
+
+[deps]
+
+source_file="res://audio/Y - MY PRESENCE.ogg"
+dest_files=[ "res://.import/Y - MY PRESENCE.ogg-5baba9bd51c42bb0fbf9dcec6c63c6ab.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,42 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://resources/sub_label.tres" type="DynamicFont" id=1]
+[ext_resource path="res://assets/album_art.png" type="Texture" id=2]
+[ext_resource path="res://resources/regular_label.tres" type="DynamicFont" id=3]
+
+[node name="Track" type="HBoxContainer"]
+margin_right = 258.0
+margin_bottom = 120.0
+rect_scale = Vector2( 1.0278, 0.985745 )
+custom_constants/separation = 20
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AlbumArt" type="TextureRect" parent="."]
+margin_right = 120.0
+margin_bottom = 120.0
+texture = ExtResource( 2 )
+
+[node name="Text" type="VBoxContainer" parent="."]
+margin_left = 140.0
+margin_top = 8.0
+margin_right = 258.0
+margin_bottom = 111.0
+size_flags_vertical = 4
+
+[node name="Title" type="Label" parent="Text"]
+margin_right = 118.0
+margin_bottom = 56.0
+custom_fonts/font = ExtResource( 3 )
+text = "PAIN!"
+valign = 1
+
+[node name="Artist" type="Label" parent="Text"]
+margin_top = 60.0
+margin_right = 118.0
+margin_bottom = 103.0
+custom_fonts/font = ExtResource( 1 )
+custom_colors/font_color = Color( 0.482353, 0.482353, 0.517647, 1 )
+text = "Vadium"
+valign = 1

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Keys - Constellations.ogg-3ef0a24bf527bb106b8f803fe60082f5.oggstr"
+
+[deps]
+
+source_file="res://audio/Keys - Constellations.ogg"
+dest_files=[ "res://.import/Keys - Constellations.ogg-3ef0a24bf527bb106b8f803fe60082f5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

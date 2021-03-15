@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Vadium - PAIN!.ogg-d938f40570f1160c1a4f580a8fa10fc6.oggstr"
+
+[deps]
+
+source_file="res://audio/Vadium - PAIN!.ogg"
+dest_files=[ "res://.import/Vadium - PAIN!.ogg-d938f40570f1160c1a4f580a8fa10fc6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
